@@ -1,3 +1,6 @@
 {
-  "MAHR-5E140B2B9EF9": "MAHR-VIP-2026"
+    "MAHRHWIDEXAMPLE123": {
+        "key": "MAHR-PRO-2026-XYZ",
+        "expiryDate": "2026-12-31T23:59:59"
+    }
 }
