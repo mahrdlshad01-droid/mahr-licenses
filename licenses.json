@@ -1,6 +1,6 @@
 {
-    "": {
-        "keyTUFIUIOXMXROR2VUSW50ZWWO": "MAHR-PRO-2026-XYZ",
-        "expiryDate": "2026-12-13T23:59:59"
-    }
+  "HWID-TUFIUIOXMXROR2VUSW50ZWWO": {
+    "key": "MAHR-PRO-2026-XYZ",
+    "expiryDate": "2026-12-13T23:59:59"
+  }
 }
